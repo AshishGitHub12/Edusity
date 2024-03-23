@@ -14,7 +14,7 @@ const Program = () => {
         <img src={program_1} alt="" />
         <div className="caption">
           <img src={program_icon_1} alt="" />
-          <p>Graduation Degree</p>
+          <p> Degree</p>
         </div>
       </div>
       <div className="program">
